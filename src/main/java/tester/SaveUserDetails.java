@@ -1,11 +1,9 @@
 package tester;
 
-import static utils.HibernateUtils.getFactory;
 
 import java.time.LocalDate;
 import java.util.Scanner;
 
-import org.hibernate.SessionFactory;
 
 import dao.UserDaoImpl;
 import pojos.Role;
